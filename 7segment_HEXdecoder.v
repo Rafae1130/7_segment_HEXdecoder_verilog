@@ -1,3 +1,5 @@
+//this module is for common anode 7 segment display led
+
 module decoder_led(A, HEX0);
 input [3:0]A;
 
